@@ -1,0 +1,5 @@
+main\utils\enums\SensorEnum.class
+main\utils\MqttClientPersistenceImplementation.class
+main\Main.class
+main\client\MqttClient.class
+main\utils\MqttClientPersistenceImplementation$1.class
